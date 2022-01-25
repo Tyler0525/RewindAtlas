@@ -1,6 +1,6 @@
         // pull the user entered from the page
 function getValues() {
-    let userString =document.getElementById("revString").value;
+    let userString = document.getElementById("revString").value;
 
         //Call reverse a String
         let revString = ReverseAString(userString);
